@@ -1,5 +1,5 @@
 password = "bigbigbigcode"
-typedpass = input("enter your password")
+typedpass = input("enter your password:")
 if typedpass == password:
     print("access granted")
 elif typedpass == "1234":
